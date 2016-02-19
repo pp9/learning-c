@@ -1,0 +1,5 @@
+#lang scheme
+(define size 2) 
+(+ (+ 10 12) (- 15 size) )
+(define (square x) (* x x))
+(square 8)

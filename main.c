@@ -40,6 +40,9 @@ Box rect = {6, 12, 30, 20};
 Point top = {12, 24};
 Point btm;
 
+
+const char *jsString = "var i = 0;"
+
 int main(int argc, char *argv[])
 {
 
